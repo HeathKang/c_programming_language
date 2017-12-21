@@ -1,0 +1,5 @@
+# vscodestuff
+.vscode/
+
+# application
+*.exe
